@@ -1,5 +1,3 @@
-KLIA traffic monitoring and databasing
-
 # End to End CI/CD Azure Data Lake and Data Warehouse Project using Databricks, Apache Spark, Synapse Analytics and PowerBI.
 
 ## Overview
