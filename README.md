@@ -30,7 +30,7 @@ Techniques used : API data ingesting, CI/CD pipeline + scheduling, Data Lake, Da
 3. **Data Warehousing using Azure Synapse**
    - **Stages Created**:
      - **Staging**: Preliminary data processing and preparation.
-     - **Data Mart, Fact Table, Dim Table**: Using DIM and FACT tables, data marts are created for strategic team use purposes such as monthly ticket revenue and monthly movie releases.
+     - **Data Mart, Fact Table, Dim Table**: Using Dim and Fact tables, data marts are created for strategic teams use.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdcf762f-3046-4ce2-8e13-e12c00401122" alt="Data Pipeline Diagram"/>
