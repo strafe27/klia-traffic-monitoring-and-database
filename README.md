@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project is called KLIA Flight Data Monitoring and Databasing which a data engineering project built to ingest, process, database and analyze arrivals and departures flight data in KLIA.
+KLIA Flight Data Monitoring and Databasing is a data engineering project built to ingest, process, database and analyze arrivals and departures flight data in KLIA.
 
 However, for documentation sake, the data warehousing part is also done using dbt in the klia_project folder
 
