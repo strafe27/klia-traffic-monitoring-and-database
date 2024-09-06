@@ -20,7 +20,7 @@ Techniques used : API data ingesting, CI/CD pipeline + scheduling, Data Lake, Da
   <img src="https://github.com/user-attachments/assets/bb0d09b5-bbe0-4658-8820-7cae1b1f9c5e" alt="Data Pipeline Diagram"/>
 </p>
 
-2. **CI/CD with Databricks Workflow in Data Lake Architecture**
+2. **Data Transformation and Scheduling using Databricks + Workflow in Data Lake Architecture**
    - **Task**: Utilise Databricks Notebook with Workflow for data ingesting in parquet format. Hourly data is ingested then compiled.
     
 <p align="center">
