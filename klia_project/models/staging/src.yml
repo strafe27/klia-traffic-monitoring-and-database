@@ -1,0 +1,12 @@
+version: 2
+
+version: 2
+
+sources:
+  - name: klia
+    schema: public  # Replace with the actual schema where raw data is located
+    tables:
+      - name: raw_departures
+      - name: raw_arrivals
+      - name: raw_aircraft_info
+      - name: raw_airport_info
