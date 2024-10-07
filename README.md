@@ -53,7 +53,7 @@ Techniques used : API data ingesting, CI/CD pipeline + scheduling, Data Lake, Da
    - The most popular route pair to and from KLIA would be the Singapore Changi Airport with a whopping total of 540 flights. Almost 200 more flights than Jakarta Soekarno Intl Airport, Indonesia, at 364 flights. On the third place would be Kuching Intl Airport with 342      flights followed close by Kota Kinabalu Intl Airport with 328 flights.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7b1bf4a-f146-4662-9803-ab43e37e0985" alt="Data Pipeline Diagram"/>
+  <img src="https://github.com/user-attachments/assets/ba2bc3e2-af22-403b-a64d-8db025f278a1" alt="Data Pipeline Diagram"/>
 </p>
 
    - The average delay across all flights is approximately 23.77 minutes.
