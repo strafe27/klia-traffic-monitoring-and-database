@@ -49,7 +49,7 @@ Techniques used : API data ingesting, CI/CD pipeline + scheduling, Data Lake, Da
   <img src="https://github.com/user-attachments/assets/b92d1b7e-139d-4e7b-bdf0-7551d1b81c69" alt="Data Pipeline Diagram"/>
 </p>
 
-6. **Findings ( all findings are between 29 Aug to 1 Sept )**
+6. **Findings ( all findings are between 26 Aug to 1 Sept )**
    - The most popular route pair to and from KLIA would be the Singapore Changi Airport with a whopping total of 540 flights. Almost 200 more flights than Jakarta Soekarno Intl Airport, Indonesia, at 364 flights. On the third place would be Kuching Intl Airport with 342      flights followed close by Kota Kinabalu Intl Airport with 328 flights.
 
 <p align="center">
